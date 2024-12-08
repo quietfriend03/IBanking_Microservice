@@ -1,0 +1,254 @@
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\ApiGateway.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\HoaDonService.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SendEmailService.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SinhVienService.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\MimeKit.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\MailKit.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\HoaDonService.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SendEmailService.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SinhVienService.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\ApiGateway.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\ApiGateway.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\appsettings.Development.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\appsettings.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\ocelot.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\ApiGateway.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\HoaDonService.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\HoaDonService.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\HoaDonService.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SendEmailService.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SendEmailService.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SendEmailService.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SinhVienService.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SinhVienService.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\SinhVienService.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Ocelot.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\FluentValidation.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\IPAddressRange.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\ApiGateway.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\AuthenticationService.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\AuthenticationService.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\AuthenticationService.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\AuthenticationService.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\AuthenticationService.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BlazorApp1.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BlazorApp1.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BlazorApp1.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BlazorApp1.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BlazorApp1.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\BlazorApp1.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Core.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Navigations.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Data.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Inputs.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Popups.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Spinner.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Buttons.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Notifications.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.SplitButtons.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\appsettings.Development.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\appsettings.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ocelot.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.staticwebassets.runtime.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Ocelot.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Authorization.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.JSInterop.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.Text.Json.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Core.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Syncfusion.Licensing.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\MimeKit.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\MailKit.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Newtonsoft.Json.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\FluentValidation.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\IPAddressRange.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.Formats.Asn1.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Identity.Client.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorBootstrap.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\appsettings.Development.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\appsettings.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ocelot.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.staticwebassets.runtime.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Ocelot.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Syncfusion.Blazor.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorBootstrap.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\MimeKit.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\MailKit.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\FluentValidation.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\IPAddressRange.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\ApiGateway.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\AuthenticationService.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\BlazorApp1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\HoaDonService.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SendEmailService.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\bin\Debug\SinhVienService.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete

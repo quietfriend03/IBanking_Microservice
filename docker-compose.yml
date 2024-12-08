@@ -1,0 +1,111 @@
+version: '3.4'
+
+networks:
+  backend: 
+  frontend:
+
+services:
+  sinhviendb:
+    container_name: sinhvien-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=root1234@
+    networks:
+     - backend
+    ports:
+     - 8001:1433   
+
+  sinhvienservice:
+    container_name: sinhvien-api
+    image: ${DOCKER_REGISTRY-}sinhvienservice
+    build:
+      context: .
+      dockerfile: SinhVienService/Dockerfile
+    networks:
+     - backend
+    environment:
+     - DB_HOST=sinhviendb
+     - DB_NAME=sinhvien
+     - DB_PASSWORD=root1234@
+
+  hoadondb:
+    container_name: hoadon-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=root1234@
+    networks:
+     - backend
+    ports:
+     - 8003:1433
+
+  hoadonservice:
+    container_name: hoadon-api
+    image: ${DOCKER_REGISTRY-}hoadonservice
+    build:
+      context: .
+      dockerfile: HoaDonService/Dockerfile
+    networks:
+     - backend
+    environment:
+     - DB_HOST=hoadondb
+     - DB_NAME=hoadon
+     - DB_PASSWORD=root1234@
+
+  sendemailservice:
+    container_name: sendemail-api
+    image: ${DOCKER_REGISTRY-}sendemailservice
+    build:
+      context: .
+      dockerfile: SendEmailService/Dockerfile
+    networks:
+     - backend
+
+  apigateway:
+    container_name: api-gateway
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    ports:
+     - 8006:80
+    networks:
+     - backend
+     - frontend
+
+  authdb:
+    container_name: auth-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=root1234@
+    networks:
+     - backend
+    ports:
+     - 8007:1433
+
+  authenticationservice:
+    container_name: auth-api
+    image: ${DOCKER_REGISTRY-}authenticationservice
+    build:
+      context: .
+      dockerfile: AuthenticationService/Dockerfile
+    networks:
+     - backend
+    environment:
+     - DB_HOST=auth-db
+     - DB_NAME=auth
+     - DB_PASSWORD=root1234@
+
+  blazorapp1:
+    container_name: blazor-web-ui
+    image: ${DOCKER_REGISTRY-}blazorapp1
+    build:
+      context: .
+      dockerfile: BlazorApp1/Dockerfile
+    ports:
+     - 8008:80 
+    networks:
+     - frontend
+

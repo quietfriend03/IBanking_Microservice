@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorApp1
+build_property.RootNamespace = BlazorApp1
+build_property.ProjectDir = C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/ConfirmationForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZmlybWF0aW9uRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/HoaDonForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9hRG9uRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/SinhVienForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2luaFZpZW5Gb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/UserForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/UserInformation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckluZm9ybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Shared/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rnrr1pkvg1
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/ModalDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kYWxEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ufklunwpxg
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Shared/HomeLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bf2gvyzqjb
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-45rkf8v3vv
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b5wscdn8ts
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Documents/Zalo Received Files/IBankingMicroservice_1/IBankingMicroservice/BlazorApp1/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,61 @@
+﻿@using Microsoft.JSInterop
+@inject IJSRuntime JSRuntime
+
+<div class="container height-100 d-flex justify-content-center align-items-center z-50">
+    <div class="position-relative">
+        <div class="card p-2 text-center">
+            <h6>Please enter the one time password <br> to verify your account</h6>
+            <p @onclick="OnClose">Click here to close</p>
+            <div class="inputs d-flex flex-row justify-content-center mt-2 otp-container">
+                <input class="otp-input m-2 w-full text-center form-control rounded" type="text" pattern="[0-9]" maxlength="1" @bind="otp[0]" id="otp0" oninput="this.value = this.value.replace(/\D/g, '').substring(0, 1);" />
+                <input class="otp-input m-2 w-full text-center form-control rounded" type="text" pattern="[0-9]" maxlength="1" @bind="otp[1]" id="otp1" oninput="this.value = this.value.replace(/\D/g, '').substring(0, 1);" />
+                <input class="otp-input m-2 w-full text-center form-control rounded" type="text" pattern="[0-9]" maxlength="1" @bind="otp[2]" id="otp2" oninput="this.value = this.value.replace(/\D/g, '').substring(0, 1);" />
+                <input class="otp-input m-2 w-full text-center form-control rounded" type="text" pattern="[0-9]" maxlength="1" @bind="otp[3]" id="otp3" oninput="this.value = this.value.replace(/\D/g, '').substring(0, 1);" />
+                <input class="otp-input m-2 w-full text-center form-control rounded" type="text" pattern="[0-9]" maxlength="1" @bind="otp[4]" id="otp4" oninput="this.value = this.value.replace(/\D/g, '').substring(0, 1);" />
+                <input class="otp-input m-2 w-full text-center form-control rounded" type="text" pattern="[0-9]" maxlength="1" @bind="otp[5]" id="otp5" oninput="this.value = this.value.replace(/\D/g, '').substring(0, 1);" />
+            </div>
+            @if (!string.IsNullOrEmpty(ErrorMessage))
+            {
+                <p class="text-danger">@ErrorMessage</p>
+            }
+            <div class="mt-4"> 
+                <button class="btn btn-danger px-4 validate" @onclick="ValidateOTP">Validate</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code{
+    private char[] otp = new char[6];
+
+    [Parameter]
+    public EventCallback<string> OnSubmitted { get; set; }
+
+    [Parameter]
+    public string ErrorMessage { get; set; }
+
+
+    [Parameter]
+    public EventCallback OnClose { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("enableOTPAutoJump");
+        }
+    }
+
+    private async Task ValidateOTP()
+    {
+        string otpString = new string(otp);
+        if (!otpString.Contains('-'))
+        {
+            await OnSubmitted.InvokeAsync(otpString);
+        }
+        else
+        {
+            ErrorMessage = "Please enter a valid OTP.";
+        }
+    }
+}

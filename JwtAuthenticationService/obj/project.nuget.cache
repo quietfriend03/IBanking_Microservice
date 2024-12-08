@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dhw92+0IW5Hd1/WuVSaGUSN18kiipI4RStBG6TUoQvgsQTb3YCmDhQopEIpYotAHI9GkNGxY2a0lKvcbkhsgJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\IBankingMicroservice\\JwtAuthenticationService\\JwtAuthenticationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.0\\microsoft.identitymodel.abstractions.7.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.0\\microsoft.identitymodel.jsonwebtokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.0\\microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.0\\microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.0\\system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

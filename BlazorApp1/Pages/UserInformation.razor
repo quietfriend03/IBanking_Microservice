@@ -1,0 +1,53 @@
+﻿@using BlazorApp1.Service
+@using BlazorApp1.Models
+@page "/information"
+@inject AuthenticationStateProvider _authenticationStateProvider
+
+<AuthorizeView>
+    <div class="form-container  col-lg-6">
+        <div class="card mb-3" style="background-color: lightblue;">
+            <form >
+                <center><h3>THÔNG TIN CÁ NHÂN</h3></center>
+                @foreach (var claim in @context.User.Claims.Take(4))
+                {
+                    @if (@claim.Type == "name")
+                    {
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Họ và tên:</label>
+                            <input type="text" id="name" class="form-control" value="@claim.Value" readonly>
+                        </div>
+                    }
+                    @if (@claim.Type == "email")
+                    {
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email:</label>
+                            <input type="email" id="email" class="form-control" value="@claim.Value" readonly>
+                        </div>
+                    }
+                    @if (@claim.Type == "gender")
+                    {
+                        <div class="mb-3">
+                            <label for="phone" class="form-label">Số điện thoại:</label>
+                            <input type="text" id="phone" class="form-control" value="@claim.Value" readonly>
+                        </div>
+                    }
+                    @if (@claim.Type == "sub")
+                    {
+                        <div class="mb-3">
+                            <label for="sodu" class="form-label">Số dư:</label>
+                            <input type="text" id="sodu" class="form-control" value="@claim.Value" readonly>
+                        </div>
+                    }
+                }
+            </form>
+        </div>
+    </div>
+</AuthorizeView>
+
+@code {
+    [Parameter]
+    public string Data { get; set; }
+
+    private List<HoaDonViewModel> hoadons;
+    private UserViewModel user;
+}

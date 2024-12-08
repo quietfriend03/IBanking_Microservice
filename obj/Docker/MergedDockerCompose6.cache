@@ -1,0 +1,112 @@
+name: dockercompose13017152629911075841
+services:
+  apigateway:
+    build:
+      context: C:\Users\Admin\source\repos\IBankingMicroservice
+      dockerfile: ApiGateway/Dockerfile
+    container_name: api-gateway
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: apigateway
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8006"
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  authenticationservice:
+    build:
+      context: C:\Users\Admin\source\repos\IBankingMicroservice
+      dockerfile: AuthenticationService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: authenticationservice
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  hoadondb:
+    container_name: hoadon-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: root1234@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8003"
+        protocol: tcp
+  hoadonservice:
+    build:
+      context: C:\Users\Admin\source\repos\IBankingMicroservice
+      dockerfile: HoaDonService/Dockerfile
+    container_name: hoadon-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: hoadondb
+      DB_NAME: hoadon
+      DB_PASSWORD: root1234@
+    image: hoadonservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  sendemailservice:
+    build:
+      context: C:\Users\Admin\source\repos\IBankingMicroservice
+      dockerfile: SendEmailService/Dockerfile
+    container_name: sendemail-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: sendemailservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  sinhviendb:
+    container_name: sinhvien-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: root1234@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8001"
+        protocol: tcp
+  sinhvienservice:
+    build:
+      context: C:\Users\Admin\source\repos\IBankingMicroservice
+      dockerfile: SinhVienService/Dockerfile
+    container_name: sinhvien-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: sinhviendb
+      DB_NAME: sinhvien
+      DB_PASSWORD: root1234@
+    image: sinhvienservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  backend:
+    name: dockercompose13017152629911075841_backend
+  default:
+    name: dockercompose13017152629911075841_default

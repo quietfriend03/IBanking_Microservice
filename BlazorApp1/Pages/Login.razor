@@ -1,0 +1,66 @@
+﻿@using BlazorApp1.Models
+@using BlazorApp1.Service
+@using System.Text.Json
+@using System.Text
+@using Microsoft.AspNetCore.Components.Authorization
+@inject HttpClient _httpClient
+@inject NavigationManager NavigationManager
+@inject CustomAuthStateProvider customAuthStateProvider
+@inject AuthService authService
+@page "/login"
+@layout EmptyLayout
+
+<div class="center-container">
+    <div class="card login-card">
+        <div class="card-body">
+            <h1 class="card-title mb-3">Đăng nhập</h1>
+            <form id="account" method="post" @onsubmit="HandleLogin">
+                <div class="mb-3">
+                    <label for="username" class="form-label">Tên đăng nhập<span class="text-danger">*</span>:</label>
+                    <input type="text" class="form-control" id="username" @bind="loginData.UserName" placeholder="Nhập tên đăng nhập" required autofocus>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Mật khẩu<span class="text-danger">*</span>:</label>
+                    <input type="password" class="form-control" id="password" @bind="loginData.PassWord" placeholder="Nhập mật khẩu" required>
+                </div>
+                @if (!string.IsNullOrEmpty(errorMessage))
+                {
+                    <div class="alert alert-danger" role="alert">@errorMessage</div>
+                }
+                <button type="submit" class="btn btn-primary">Đăng nhập</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@code {
+    private LoginModel loginData = new LoginModel();
+    private string errorMessage = "";
+
+    private async Task HandleLogin()
+    {
+        var success = await authService.Login(loginData);
+        if (success)
+        {
+            await customAuthStateProvider.UpdateAuthenticationStatus();
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            errorMessage = "Invalid email or password";
+        }
+    }
+}
+
+
+<style>
+    .center-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .login-card {
+        max-width: 400px;
+        width: 100%;
+    }
+</style>

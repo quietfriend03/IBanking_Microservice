@@ -1,0 +1,202 @@
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.exe
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.deps.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.runtimeconfig.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.sourcelink.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorApp1.props
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp1.props
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorApp1.props
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\bundle\BlazorApp1.styles.css
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp1.bundle.scp.css
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\refint\BlazorApp1.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.pdb
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\ref\BlazorApp1.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CopyComplete
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\HomeLayout.razor.rz.scp.css
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css
+C:\Users\Admin\source\repos\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Pages\ModalDialog.razor.rz.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\appsettings.Development.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\appsettings.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.staticwebassets.runtime.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.exe
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.deps.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.runtimeconfig.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.Text.Json.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.AssemblyReference.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfoInputs.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfo.cs
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CoreCompileInputs.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cs
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.sourcelink.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.build.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.development.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorApp1.props
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp1.props
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorApp1.props
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Pages\ModalDialog.razor.rz.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\HomeLayout.razor.rz.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\bundle\BlazorApp1.styles.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp1.bundle.scp.css
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CopyComplete
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\refint\BlazorApp1.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.pdb
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.genruntimeconfig.cache
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\ref\BlazorApp1.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorBootstrap.dll
+D:\HK-VI 2023 - 2024\KTHDV\Giua ky\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.staticwebassets.runtime.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.exe
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorApp1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\BlazorBootstrap.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.sourcelink.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorApp1.props
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp1.props
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorApp1.props
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Pages\ModalDialog.razor.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\Shared\HomeLayout.razor.rz.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\bundle\BlazorApp1.styles.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp1.bundle.scp.css
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\refint\BlazorApp1.dll
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\BlazorApp1.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice\BlazorApp1\obj\Debug\net6.0\ref\BlazorApp1.dll

@@ -1,0 +1,59 @@
+﻿@using BlazorApp1.Service
+@inherits LayoutComponentBase
+@inject AuthService authService
+@inject CustomAuthStateProvider customAuthStateProvider
+@inject NavigationManager NavManager
+
+<PageTitle>BlazorApp1</PageTitle>
+
+<div class="page">
+    @* <div class="sidebar">
+        <NavMenu />
+    </div> *@
+
+    <main>
+        <AuthorizeView>
+        <nav class="navbar navbar-expand-lg" style="background-color: #e3f2fd;">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">IRL PAY</a>
+                <!-- Toggle button for mobile -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!-- Navbar items -->
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item dropdown">
+                            @foreach (var claim in @context.User.Claims.Take(4))
+                            {
+                                @if (@claim.Type == "name")
+                                {
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Xin chào @claim.Value
+                                    </a>
+                                }
+                            }
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="information">Lịch sử thanh toán</a></li>
+                                <li><a class="dropdown-item" @onclick="Logout">Đăng xuất</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        </AuthorizeView>
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+
+@code {
+    private async void Logout()
+    {
+        await authService.Logout();
+        NavManager.NavigateTo("/");
+    }
+}

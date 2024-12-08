@@ -1,0 +1,39 @@
+﻿@using BlazorApp1.Models
+@using BlazorApp1.Service
+@inject TemporaryStorageService storageService
+@inject HttpClient httpClient
+
+<h3>HoaDon Form for SinhVien with @MSSV</h3>
+@if (hoaDons != null)
+{
+    <ul>
+        @foreach (var hoadon in hoaDons)
+        {
+            <li @onclick="(() => HandleHoaDonClick(hoadon.Id))">@hoadon.Money - @hoadon.Title</li>
+        }
+    </ul>
+}
+else
+{
+    <p>Loading...</p>
+}
+
+@code{
+    [Parameter]
+    public EventCallback OnSubmitted { get; set; }
+
+    private int? MSSV;
+    private List<HoaDonViewModel> hoaDons;
+
+    protected override async Task OnInitializedAsync()
+    {
+        MSSV = await storageService.GetMSSV();
+        hoaDons = await httpClient.GetFromJsonAsync<List<HoaDonViewModel>>($"/api/HoaDon/sinhvien/{MSSV}");
+    }
+
+    private async Task HandleHoaDonClick(int hoaDonId)
+    {
+        await storageService.SetHoaDonId(hoaDonId);
+        await OnSubmitted.InvokeAsync();
+    }
+}

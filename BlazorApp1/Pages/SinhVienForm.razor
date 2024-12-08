@@ -1,0 +1,58 @@
+﻿@using BlazorApp1.Models
+@using BlazorApp1.Service
+@inject HttpClient httpClient
+@inject TemporaryStorageService storageService
+
+<input type="text" @bind="searchQuery" placeholder="Search by ID or Name">
+@if (sinhvien != null)
+{
+    <ul>
+        @foreach (var student in filteredSinhvien)
+        {
+            <li @onclick="(() => HandleStudentClick(student.MSSV))">@student.HoVaTen - @student.MSSV</li>
+        }
+    </ul>
+}
+else
+{
+    <p>Loading...</p>
+}
+
+@code {
+    [Parameter]
+    public EventCallback OnSubmitted { get; set; }
+
+    private List<SinhVienViewModel> sinhvien;
+    private List<SinhVienViewModel> filteredSinhvien;
+    private string searchQuery;
+
+    protected override async Task OnInitializedAsync()
+    {
+        sinhvien = await httpClient.GetFromJsonAsync<List<SinhVienViewModel>>("/api/SinhVien");
+        filteredSinhvien = sinhvien;
+    }
+
+    protected override void OnParametersSet()
+    {
+        FilterStudents();
+    }
+
+    private void FilterStudents()
+    {
+        if (string.IsNullOrWhiteSpace(searchQuery))
+        {
+            filteredSinhvien = sinhvien;
+        }
+        else
+        {
+            filteredSinhvien = sinhvien.Where(s => s.MSSV.ToString().Contains(searchQuery, StringComparison.OrdinalIgnoreCase))
+                                       .ToList();
+        }
+    }
+
+    private async Task HandleStudentClick(int mssv)
+    {
+        await storageService.SetMSSV(mssv);
+        await OnSubmitted.InvokeAsync();
+    }
+}

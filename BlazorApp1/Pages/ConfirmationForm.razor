@@ -1,0 +1,101 @@
+﻿@using BlazorApp1.Models
+@using BlazorApp1.Service
+@using System.Text
+@using System.Security.Claims
+@inject TemporaryStorageService storageService
+@inject HttpClient httpClient
+@inject EmailService emailService
+@inject NavigationManager _navigationManager
+
+
+<AuthorizeView>
+    @if (hoadon != null && sinhvien != null)
+    {
+        <div>
+            <p>Student Name: @sinhvien.HoVaTen</p>
+            <p>Invoice ID: @hoadon.Id</p>
+            <p>Amount: @hoadon.Money</p>
+            <ul>
+                @foreach (var claim in @context.User.Claims.Skip(1).Take(1))
+                {
+                    <p>@claim.Value</p>
+                    <button @onclick="(() => Open(claim.Value))">Verify</button>
+                    @if (OpenDialog)
+                    {
+                        <ModalDialog OnSubmitted="Verify" OnClose="Close" ErrorMessage="@ErrorMessage"></ModalDialog>
+                    }
+                }
+                @if (verified)
+                {
+                    <p>You are verified</p>
+                }
+            </ul>
+        </div>
+    }
+    else
+    {
+        <p>Loading...</p>
+    }
+
+
+</AuthorizeView>
+
+@code {
+    private int? MSSV;
+    private int? HoaDonId;
+    private HoaDonViewModel hoadon;
+    private SinhVienViewModel sinhvien;
+    private string otp;
+    private bool OpenDialog = false;
+    private bool verified = false;
+    private string ErrorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        MSSV = await storageService.GetMSSV();
+        HoaDonId = await storageService.GetHoaDonId();
+        hoadon = await httpClient.GetFromJsonAsync<HoaDonViewModel>($"/api/HoaDon/{HoaDonId}");
+        sinhvien = await httpClient.GetFromJsonAsync<SinhVienViewModel>($"/api/SinhVien/{MSSV}");
+    }
+
+    private async Task Open(string email)
+    {
+        OpenDialog = true;
+        await SendOTP(email);
+
+    }
+
+    private void Close()
+    {
+        ErrorMessage = "";
+        OpenDialog = false;
+    }
+
+    private async Task SendOTP(string email)
+    {
+        await emailService.SendOTPByEmailAsync(email);
+    }
+
+    private async Task Verify(string otp)
+    {
+        var verifyResult = await emailService.VerifyOTPAsync(otp);
+        if (verifyResult.IsValid)
+        {
+            verified = true;
+            OpenDialog = false;
+        }
+        else
+        {
+            ErrorMessage = verifyResult.Message; 
+        }
+    }
+
+    private async Task CompletePayment(int amount, int userId)
+    {
+        var uri = $"/api/Auth/{userId}/{amount}";
+        var content = new StringContent("", Encoding.UTF8, "application/json");
+        await httpClient.PutAsync(uri, content);
+        _navigationManager.NavigateTo("/");
+    }
+}
+

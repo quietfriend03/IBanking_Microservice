@@ -1,0 +1,148 @@
+name: dockercompose13918735914885859371
+services:
+  apigateway:
+    build:
+      context: C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice
+      dockerfile: ApiGateway/Dockerfile
+    container_name: api-gateway
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: apigateway
+    networks:
+      backend: null
+      frontend: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8006"
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  authdb:
+    container_name: auth-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: root1234@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8007"
+        protocol: tcp
+  authenticationservice:
+    build:
+      context: C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice
+      dockerfile: AuthenticationService/Dockerfile
+    container_name: auth-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: auth-db
+      DB_NAME: auth
+      DB_PASSWORD: root1234@
+    image: authenticationservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  blazorapp1:
+    build:
+      context: C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice
+      dockerfile: BlazorApp1/Dockerfile
+    container_name: blazor-web-ui
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: blazorapp1
+    networks:
+      frontend: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8008"
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  hoadondb:
+    container_name: hoadon-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: root1234@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8003"
+        protocol: tcp
+  hoadonservice:
+    build:
+      context: C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice
+      dockerfile: HoaDonService/Dockerfile
+    container_name: hoadon-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: hoadondb
+      DB_NAME: hoadon
+      DB_PASSWORD: root1234@
+    image: hoadonservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  sendemailservice:
+    build:
+      context: C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice
+      dockerfile: SendEmailService/Dockerfile
+    container_name: sendemail-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: sendemailservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+  sinhviendb:
+    container_name: sinhvien-db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: root1234@
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8001"
+        protocol: tcp
+  sinhvienservice:
+    build:
+      context: C:\Users\Admin\Documents\Zalo Received Files\IBankingMicroservice_1\IBankingMicroservice
+      dockerfile: SinhVienService/Dockerfile
+    container_name: sinhvien-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DB_HOST: sinhviendb
+      DB_NAME: sinhvien
+      DB_PASSWORD: root1234@
+    image: sinhvienservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  backend:
+    name: dockercompose13918735914885859371_backend
+  frontend:
+    name: dockercompose13918735914885859371_frontend

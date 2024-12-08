@@ -1,0 +1,133 @@
+{
+    "Routes": [
+        // Auth API
+        {
+            "UpstreamPathTemplate": "/api/Auth",
+            "UpstreamHttpMethod": [ "Post" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "authenticationservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/Auth"
+        },
+        {
+            "UpstreamPathTemplate": "/api/Auth/{userId}/{amount}",
+            "UpstreamHttpMethod": [ "Put" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "authenticationservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/Auth/{userId}/{amount}"
+        },
+        // Sinh Vien API 
+        {
+            "UpstreamPathTemplate": "/api/SinhVien",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "sinhvienservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/SinhVien"
+        },
+        {
+            "UpstreamPathTemplate": "/api/SinhVien/{mssv}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "sinhvienservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/SinhVien/{mssv}"
+        },
+
+        // Hoa Don API
+        {
+            "UpstreamPathTemplate": "/api/HoaDon",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "hoadonservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/HoaDon"
+        },
+        {
+            "UpstreamPathTemplate": "/api/HoaDon/{id}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "hoadonservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/HoaDon/{id}"
+        },
+        {
+            "UpstreamPathTemplate": "/api/HoaDon/sinhvien/{mssv}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "hoadonservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/HoaDon/sinhvien/{mssv}"
+        },
+        {
+            "UpstreamPathTemplate": "/api/HoaDon/user/{user_id}",
+            "UpstreamHttpMethod": [ "Get" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "hoadonservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/HoaDon/user/{user_id}"
+        },
+        {
+            "UpstreamPathTemplate": "/api/HoaDon/{id}/{user_id}",
+            "UpstreamHttpMethod": [ "Put" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "hoadonservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/HoaDon/{id}/{user_id}"
+        },
+
+        // Send Email API
+        {
+            "UpstreamPathTemplate": "/api/EmailSender",
+            "UpstreamHttpMethod": [ "Post" ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "sendemailservice",
+                    "Port": 80
+                }
+            ],
+            "DownstreamPathTemplate": "/api/EmailSender"
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:800"
+    }
+}
